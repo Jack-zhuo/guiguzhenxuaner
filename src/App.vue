@@ -4,7 +4,7 @@
   </div>
 </template>
 
-                          <script setup lang="ts">
+<script setup lang="ts">
 var count = 100;
 console.log(count);
 
